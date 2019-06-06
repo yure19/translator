@@ -1,4 +1,4 @@
-Program to translate a word or phrase from Spanish to the English language.
+<h1>Program to translate a word or phrase from Spanish to the English language.<\h1>
 
 To run with maven:
 mvn install -Dexec.args="[language_source] [language_target] ['word/phrase to translate']"
